@@ -1,8 +1,8 @@
-### credit-risk-classification
+# credit-risk-classification
 
 ## Credit Risk Analysis Report
 
-# Overview of the analysis:
+### Overview of the analysis:
 **Purpose**:
 * evaluating of a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.and
 * evaluating the performance of the LogisticRegression model using confusion matrix and classification report that if this model is recommended for the company to use.
@@ -19,5 +19,5 @@ the model is fit to the "y-train" and "x_train" and predicted the "x_test" based
 * classification report:the classification model report; that the model predicted 100 of the health loan or '0' on both precision and recall.and also predicted the high risk loan or '1' 87% of precision and 95% of the recall .
   the room for the error is very small having the accuracy of over 99% and 100% of precision and  recall.very small room for the false negetive and false positive.
  
-** i conclude and suggest that the company can use this classfication model('LogisticRegression') to identify the creditworthiness of the borrowers.
+* I conclude and recommend that the company can use this classfication model('LogisticRegression') to identify the creditworthiness of the borrowers.
 
