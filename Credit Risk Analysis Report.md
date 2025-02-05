@@ -13,8 +13,8 @@ the model is fit to the "y-train" and "x_train" and predicted the "x_test" based
 
 **Results**: 
 * based on the givin dataset and using the logisticregression model.here is the list of the result
-* Accuracy score: the ratio of correctly predicted observations to the total number of observation. the result for the given dataset is 99%(0.99)
-* Precision score:it the ratio of correctly predicted positive observations to the total predicted positive observations. the result for the givin dataset is 100% or (1)
+* Accuracy score:it is the ratio of correctly predicted observations to the total number of observation. the result for the given dataset is 99%(0.99)
+* Precision score:it is the ratio of correctly predicted positive observations to the total predicted positive observations. the result for the given dataset is 100% or (1)
 *  Recall: the ratio of correctly predicted positive observations to the total predicted observation.the result for the given dataset is 100% or (1)
   
 **Summary**:
